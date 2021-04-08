@@ -1,0 +1,33 @@
+body{
+    min-width: 200px;
+    min-height: 200px;
+  }
+  .main-block{
+    border: 2px solid saddlebrown;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 8%;
+  }
+  .block{
+    width: 50px;
+    height: 50px;
+    float: left;
+   
+  }
+  .black{
+    background: rgb(27, 27, 2);
+  }
+  .white{
+    background: rgb(247, 247, 244);
+  }
+  .checker{
+    width: 10px;
+    height: 10px;
+    background: black;
+    border: 1px solid black;
+  }
+  #empty{
+    border: 2px solid black;
+    text-align:center;
+  }
